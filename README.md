@@ -1,7 +1,7 @@
 # Super Hero - Loja de Super Poderes
 
-![GitHub repo size](https://img.shields.io/github/repo-size/duduoliveeira/Super_Power_Market?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/duduoliveeira/Super_Power_Market?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/pedrofonsecapadilha/Super_Power_Market?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/pedrofonsecapadilha/Super_Power_Market?style=for-the-badge)
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/duduoliveeira/Super_Power_Market/master/app/assets/images/superhero.png" alt="logo">
